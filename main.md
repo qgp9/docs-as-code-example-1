@@ -22,7 +22,8 @@
 각 챕터 하단의 “코멘트 하기” 링크를 누르시면 Commentating 가능 모드로 전환됩니다. 코멘트 내용은 검토 및 문맥 수정을 거쳐 매년 2회 주기로 업데이트 됩니다. 자발적 참여와 자원봉사로 꾸려지는 사이트라 신속한 업데이트는 어렵다는 점, 여러분들의 너그러운 이해 부탁드립니다.
 
 
-## 저작권: ”Welcome to Finland - 핀란핀란 서바이벌”은 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 에 의거 합니다. 해당 문서에 담긴 글의 복사, 사용, 활용, 인용 등은 비영리 목적에 준하여 가능하며, 이 때 꼬옥 “핀란드개발자연대 (FIN-KO DEV)”를 출처 명시하셔야 합니다.
+## 저작권:
+”Welcome to Finland - 핀란핀란 서바이벌”은 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 에 의거 합니다. 해당 문서에 담긴 글의 복사, 사용, 활용, 인용 등은 비영리 목적에 준하여 가능하며, 이 때 꼬옥 “핀란드개발자연대 (FIN-KO DEV)”를 출처 명시하셔야 합니다.
 
 
 ## 담당: 핀란드개발자연대 (FIN-KO DEV)

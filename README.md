@@ -25,7 +25,7 @@
 ## 저작권:
 ”Welcome to Finland - 핀란핀란 서바이벌”은 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 에 의거 합니다. 해당 문서에 담긴 글의 복사, 사용, 활용, 인용 등은 비영리 목적에 준하여 가능하며, 이 때 꼬옥 “핀란드개발자연대 (FIN-KO DEV)”를 출처 명시하셔야 합니다.
 
-핀란드개발자연대 (FIN-KO DEV)의 [핀란핀란 서바이벌](https://docs.google.com/document/d/e/2PACX-1vTaA_wMI2PxLCtAEenIHr1ggX2dfjYuoK3uqjvfr0TzqUbHceqzZEpMP2DufwipCNsDIKSPIdkx-Rm8/pub
+핀란드개발자연대 (FIN-KO DEV)의 *업스트림 패치 테스트를 위한 추가* [핀란핀란 서바이벌](https://docs.google.com/document/d/e/2PACX-1vTaA_wMI2PxLCtAEenIHr1ggX2dfjYuoK3uqjvfr0TzqUbHceqzZEpMP2DufwipCNsDIKSPIdkx-Rm8/pub
 ) 의 문서를 이 Docs as Code 예제를 위해 일부 차용했습니다.
 
 ## 담당: 핀란드개발자연대 (FIN-KO DEV)
@@ -33,3 +33,5 @@
 Facebook: https://www.facebook.com/groups/2178618955721218 
 
 Slack: http://finko-dev.slack.com/
+
+
